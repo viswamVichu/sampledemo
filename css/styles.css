@@ -1,4 +1,80 @@
 body{
-    background: #000;
+    background: #0000003c;
+}
+.container{
+    background: #00000076;
+    padding: 10px;
+    width: 340px;
+    height:280px;
+    border-radius: 30px;
+}
+.heading{
+    color:rgb(238, 130, 238);
+    background-color: azure;
+    text-align: center;
+    border-radius: 10px;
+}
+.paragraph{
+    font-family: sans-serif;
+    padding: 5px;
+    color: azure;
+    font-size: 18px;
+}
+.anchor{
+    color: rgb(0, 0, 0);
+    font-size: 16px;
+}
+button{
+    padding: 5px;
+    margin-left:130px;
+    border-radius: 5px;
+    border: none;
+}
+.flex{
+    background: #00000076;
+    padding: 10px;
+    width: 300px;
+    height:300px;
+    border-radius: 30px;
+    margin-bottom: 20px;
+}
+.grid{
+    background: #00000076;
+    padding: 10px;
+    width: 300px;
+    height:300px;
+    border-radius: 30px;
+    margin: 10px;
+}
+.front ,.back{
+    text-align: center;
+}
+.boxed{
     color: aliceblue;
+    text-align: center;
+}
+.box{
+    background: black;
+    margin: 10px;
+    font-size: 20px;
+    padding: 3px;
+    border-radius: 10px;
+    width: 150px;
+    margin-left: 27px;
+}
+ul li{
+    list-style: none;
+}
+.contents{
+    color: aliceblue;
+    text-align: center;
+}
+.cont{
+    background: black;
+    margin: 10px;
+    font-size: 20px;
+    padding: 3px;
+    border-radius: 10px;
+    width: 150px;
+    margin-left: 27px;
 }

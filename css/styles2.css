@@ -1,0 +1,23 @@
+body{
+    font-family: sans-serif;
+    color: aliceblue;
+}
+.container{
+    width: 100vw;
+    background-image: url(/assets/group.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+h1{
+    color: wheat;
+    background: #00000067;
+    text-align: center;
+}
+.lor{
+    color:yellow;
+    background: gray;
+    font-size: 17px; 
+    text-align: justify;
+    font-size: 20px; 
+}
